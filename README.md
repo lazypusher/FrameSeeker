@@ -16,7 +16,11 @@ vs2013
 # 参考文献
 
 [直方图匹配](http://blog.csdn.net/xiaowei_cqu/article/details/7606607)
+
 [搭建Visual Studio 2013 + FFMpeg环境](http://www.cnblogs.com/myffx/p/3453488.html)
+
 [VS2013下OpenCV2.48配置](http://blog.csdn.net/gameloong/article/details/18242823)
+
 [ffmpeg如何提取视频的关键帧](http://ask.5lulu.com/question/e3n6g5nn9g89c8.html)
+
 [使用boost.python在python调用C++接口](http://blog.csdn.net/lzl001/article/details/20120451)
