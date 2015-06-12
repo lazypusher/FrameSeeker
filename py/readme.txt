@@ -1,0 +1,1 @@
+（windows环境）如果用python，需要将ffmpeg与openCV的dll加入环境变量，或者将其加入python目录中的DLLs目录当中
